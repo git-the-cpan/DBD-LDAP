@@ -64,3 +64,5 @@ Revision history for Perl extension DBD::Ldap.
 	  commit() call should now be rolled back.
 	- TYPE and PRECISION, etc. data are now properly returned (as 
 	  VARCHAR(255)) for all fields.
+0.22	- POD Documentation changes (patch provided by Michael R. Davis) to 
+	  polish up the indentation, etc.  Thanks, Michael.

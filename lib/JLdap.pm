@@ -17,7 +17,7 @@ no warnings qw (uninitialized);
 use vars qw ($VERSION);
 ##--
 
-$JLdap::VERSION = '0.20';
+$JLdap::VERSION = '0.22';
 
 #my $NUMERICTYPES = '^(NUMBER|FLOAT|DOUBLE|INT|INTEGER|NUM)$';       #20000224
 #my $STRINGTYPES = '^(VARCHAR|CHAR|VARCHAR|DATE|LONG|BLOB|MEMO)$';
